@@ -1,0 +1,24 @@
+.click {
+  font-family: Roboto-Bold;
+  font-size: 84px;
+  color: #37474f;
+  margin-bottom: 100px; 
+}
+.button-style {
+  background: #5e19f5;
+  border: 1px solid #979797;
+  border-radius: 8px;
+  font-family: Roboto-Regular;
+  font-size: 32px;
+  color: #ffffff;
+  padding-inline: 45px;
+  margin-inline: 25px;
+  padding-block: 10px;
+}
+.container {
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
